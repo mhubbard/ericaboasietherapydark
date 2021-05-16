@@ -1620,9 +1620,6 @@ a.logo:hover{
     height: 55px !important;
     line-height: 55px !important;
 }
-.small-height.main-nav {
-    background-color:rgba(17, 17, 17, 0.97) !important;
-}
 
 .inner-nav{
     display: inline-block;
